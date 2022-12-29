@@ -9,6 +9,7 @@ public class Arrays {
         lottoTicket[2] = 99;
         lottoTicket[3] = 99;
         lottoTicket[4] = 99;
+        lottoTicket[5] = 99;
         lottoTicket[2] = 33;
 
         for (int i = 0; i < lottoTicket.length; i++){
