@@ -1,0 +1,10 @@
+- Collection is an Object that holds references to other objects. aka Data Structure
+- Collections framework consist of Interfaces Classes and Methods to store and manipulate data.
+- Collection Framework: Collection is an Interface
+
+Set - Unordered unique elements   Set<Integer> mySet = new HashSet();
+List - Ordered elements which can be accessed by their position     ArrayList <String> myList = new ArrayList<>();
+Queue - Ordered element for processing. Access in the order element were added. (FIFO - fist in first out)
+
+Map is not a true collection (does not inherit from Collection Interface)
+Map - Unordered unique key-value pair    Map <String, Integer> myMap = new HashMap<>();
